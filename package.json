@@ -1,0 +1,23 @@
+{
+  "name": "final-project-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EloxFire/M1-Test-Unitaires-Back.git"
+  },
+  "author": "Enzo Avagliano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EloxFire/M1-Test-Unitaires-Back/issues"
+  },
+  "homepage": "https://github.com/EloxFire/M1-Test-Unitaires-Back#readme",
+  "dependencies": {
+    "boxen": "^6.2.1",
+    "expressjs": "^1.0.1"
+  }
+}
